@@ -1,0 +1,2 @@
+serviceClass: com.enscala.gwt.client.GreetingService
+path: 3FA0F07691B3E27FBF4DFADA60873D13.gwt.rpc
